@@ -2746,11 +2746,7 @@ input, select, textarea {
 		background-size: auto, cover;
 	}
 
-	body.is-touch .poptrox-popup .nav-next,
-	body.is-touch .poptrox-popup .nav-previous,
-	body.is-touch .poptrox-popup .closer {
-		opacity: 1.0 !important;
-	}
+
 
 /* XLarge */
 
@@ -2956,7 +2952,7 @@ input, select, textarea {
 					padding: 2.25em 0 0 0;
 				}
 
-		
+
 
 	}
 
