@@ -1896,7 +1896,6 @@ input, select, textarea {
 		input[type="radio"] + label {
 			text-decoration: none;
 			color: #a2a2a2;
-			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
 			font-weight: 400;
@@ -2044,7 +2043,7 @@ input, select, textarea {
 		position: relative;
 	}
 
-		
+
 
 		.image.thumb {
 			text-align: center;
